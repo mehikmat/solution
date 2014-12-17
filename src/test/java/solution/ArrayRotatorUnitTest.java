@@ -4,6 +4,10 @@ import org.junit.Assert;
 import org.junit.Test;
 import solution.exception.ArrayRotationException;
 
+/**
+ * @author Hikmat Dhamee
+ * @email me.hemant.available@gmail.com
+ */
 public class ArrayRotatorUnitTest {
 
     /**
