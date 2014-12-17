@@ -2,7 +2,7 @@ package solution.exception;
 
 /**
  * @author Hikmat Dhamee
- * @email hikmatdhamee@gmail.com
+ * @email me.hemant.available@gmail.com
  */
 public class ArrayRotationException extends RuntimeException {
 
