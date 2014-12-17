@@ -1,3 +1,8 @@
+###Info:
+- java version used : 1.7.0_15-b03
+- maven version used : 3.0.4
+- JUnit version used : 4.11
+
 ###Go to the project root
 
 How to Package
