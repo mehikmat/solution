@@ -7,7 +7,7 @@ import solution.exception.ArrayRotationException;
  * For Now, It only supports integer array rotation
  *
  * @author Hikmat Dhamee
- * @email hikmatdhamee@gmail.com
+ * @email me.hemant.available@gmail.com
  */
 public class ArrayRotator {
 
